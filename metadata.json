@@ -1,0 +1,5 @@
+{
+  "name": "AI Act Compliance Suite",
+  "description": "A centralized platform to guide Providers and Deployers through the lifecycle of High-Risk AI systems, ensuring compliance with the EU AI Act as interpreted by the Spanish AI Sandbox technical guides.",
+  "requestFramePermissions": []
+}
