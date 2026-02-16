@@ -4,8 +4,6 @@
 
 </div>
 
-Based on the comprehensive technical guides and the `build.md` specification derived from the Spanish AI Sandbox and the EU AI Act, here is the enterprise-grade **README.md** for the **EuRAI Comply** platform.
-
 ***
 
 # EuRAI Comply: Enterprise AI Act Compliance Suite
